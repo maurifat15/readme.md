@@ -1,4 +1,4 @@
-# Hi there, I'm [M Ahammad Ullah Rifat] 👋
+# Hi there, I'm M Ahammad Ullah Rifat 👋
 
 I'm a passionate web designer and developer currently venturing into the world of Android development. I love exploring new places, learning to code, going on long cycling trips, writing articles, indulging in video games, mastering chess, and immersing myself in the world of animation.
 
